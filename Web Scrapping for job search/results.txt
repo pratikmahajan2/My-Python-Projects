@@ -1,0 +1,25 @@
+capgemini Job Role: Python Developer Experience: 12 - 14 yrs Skills: python  ,  database  ,  java  ,  devops  ,  api  ,  sql
+HSBC Job Role: Python Developer Experience: 14 - 17 yrs Skills: devops  ,  python  ,  github  ,  docker  ,  linux  ,  cloud computing  ,  machine learning  ,  django
+Telamon HR Solutions Job Role: Python Developer Experience: 12 - 15 yrs Skills: c#  ,  c    ,  python  ,  javascript  ,  docker  ,  java  ,  devops
+LAKSH HUMAN RESOURCE Job Role: Python Developer Experience: 8 - 15 yrs Skills: c#  ,  python  ,  scala  ,  it  ,  technology  ,  javascript  ,  ruby  ,  java
+TEAMPLUS STAFFING SOLUTION PVT. LTD. Job Role: Python Developer Experience: 10 - 15 yrs Skills: python scripting  ,  devops  ,  python  ,  cloud services  ,  team player  ,  problem solving  ,  written communication  ,  infrastructure
+Saama Technologies Pvt Ltd Job Role: Python Developer Experience: 14 - 20 yrs Skills: security  ,  java  ,  iam  ,  software engineering  ,  cloud computing  ,  python  ,  infrastructure setup
+Infostretch Solution Pvt Ltd Job Role: Python Developer Experience: 12 - 14 yrs Skills: python  ,  orchestration  ,  docker  ,  security  ,  java  ,  devops  ,  infrastructure  ,  linux
+BOSTON SCIENTIFIC Job Role: Python Developer Experience: 12 - 15 yrs Skills: rest  ,  c    ,  python  ,  docker  ,  node.js  ,  linux  ,  software engineering
+Allstate India Job Role: Python Developer Experience: 12 - 15 yrs Skills: hive  ,  data mining  ,  hadoop  ,  python  ,  problem solving  ,  machine learning  ,  consultant
+Allstate solutions private limited Job Role: Python Developer Experience: 12 - 15 yrs Skills: hive  ,  data mining  ,  hadoop  ,  python  ,  problem solving  ,  machine learning  ,  consultant
+Nutanix Job Role: Python Developer Experience: 14 - 17 yrs Skills: python  ,  c    ,  authoring  ,  scala  ,  apache  ,  java  ,  big data
+ICERTIS Job Role: Python Developer Experience: 11 - 14 yrs Skills: algorithms  ,  python  ,  software design  ,  machine learning  ,  project delivery
+druva software Job Role: Python Developer Experience: 10 - 15 yrs Skills: c    ,  data structures  ,  python  ,  web technologies  ,  fundamentals  ,  hosting  ,  storage  ,  sql  ,  c  ,  service oriented architecture
+Credit Suisse Securities  ( India )  Pvt Ltd Job Role: Python Developer Experience: 13 - 16 yrs Skills: c    ,  information technology  ,  sql  ,  fx  ,  cloud computing  ,  ipc  ,  unix internals  ,  python  ,  problem solving
+Yash Technologies Pvt Ltd Job Role: Python Developer Experience: 12 - 15 yrs Skills: docker  ,  spring  ,  java  ,  git  ,  devops  ,  api  ,  rest  ,  python  ,  github  ,  enterprise security  ,  infrastructure  ,  gateway
+ICERTIS Job Role: Python Developer Experience: 12 - 15 yrs Skills: c#  ,  python  ,  director  ,  fundamentals  ,  storage  ,  sql  ,  linux  ,  network administration  ,  windows  ,  production support  ,  infrastructure  ,  sql database
+Avalara Job Role: Python Developer Experience: 12 - 15 yrs Skills: software design  ,  docker  ,  security  ,  devops  ,  python  ,  author  ,  ruby  ,  node.js  ,  php
+AppZen Job Role: Python Developer Experience: 12 - 15 yrs Skills: fundamentals  ,  scala  ,  bi  ,  database  ,  apache  ,  java  ,  devops  ,  mysql  ,  hadoop  ,  big data  ,  python  ,  rdbms  ,  oracle  ,  nosql  ,  infrastructure
+CloudMoyo Job Role: Python Developer Experience: 11 - 15 yrs Skills: algorithms  ,  python  ,  natural language processing  ,  bi  ,  information retrieval  ,  machine learning  ,  artificial intelligence  ,  written communication
+CORE COMPETENCE MARKETING PRIVATE LIMITED Job Role: Python Developer Experience: 12 - 15 yrs Skills: scala  ,  data warehousing  ,  sql  ,  java  ,  software engineering  ,  hadoop  ,  big data  ,  python  ,  sas  ,  nosql  ,  project delivery
+Yash Technologies Pvt Ltd Job Role: Python Developer Experience: 11 - 14 yrs Skills: storage  ,  sql  ,  docker  ,  security  ,  git  ,  devops  ,  linux  ,  mysql  ,  big data  ,  python  ,  github  ,  junit  ,  maven  ,  svn  ,  windows
+Aera Technology Job Role: Python Developer Experience: 12 - 15 yrs Skills: algorithms  ,  artificial intelligence  ,  big data  ,  san  ,  python  ,  os  ,  natural language processing  ,  operating system  ,  director  ,  machine learning
+TERADATA INDIA PVT LTD Job Role: Python Developer Experience: 12 - 15 yrs Skills: orchestration  ,  soa  ,  java  ,  devops  ,  python  ,  network management  ,  messaging  ,  unix  ,  fundamentals  ,  docker  ,  security  ,  linux  ,  written communication  ,  infrastructure
+Yash Technologies Pvt Ltd Job Role: Python Developer Experience: 13 - 15 yrs Skills: hive  ,  orchestration  ,  sql  ,  security  ,  devops  ,  hadoop  ,  api  ,  python  ,  cache  ,  solution architect  ,  machine learning  ,  nosql  ,  hdfs  ,  sqoop
+Agiliad Technologies Job Role: Python Developer Experience: 10 - 15 yrs Skills: python  ,  c    ,  software design  ,  mobile  ,  storage  ,  windows  ,  software requirements  ,  written communication  ,  unix  /  linux  ,  perl
