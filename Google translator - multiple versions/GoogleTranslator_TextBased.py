@@ -16,6 +16,12 @@ language.
 
 Version Log:
 =============================================
+27 - Jul - 2021 - Pratik M. - Version 0.1
+Modified the flow in mainDriver function and
+parameterised translateText function so it
+can be reused in another projects.
+Changes are tagged with #07272021
+=============================================
 25 - Jul - 2021 - Pratik M. - Initial Version
 =============================================
 =====================================================================================================================
@@ -34,11 +40,20 @@ masterLanguageDict = googletrans.LANGUAGES
 def mainDriver():
 
     displayMessages()
-    fromLangCode = userChoice("from")
+    fromlanguage, fromLangCode = userChoice("from")
     # print(fromLangCode)
-    toLangCode = userChoice("to")
+    toLanguage, toLangCode = userChoice("to")
     # print(toLangCode)
-    translateText(fromLangCode, toLangCode)
+
+# #07272021 - moved the user prompt for inputText from translateText function to mainDriver
+
+    inputText = input("Please enter the text you want to translate: ")
+    convertedText = translateText(inputText, fromLangCode, toLangCode)
+
+    print(f"Input text in {fromlanguage}: {inputText}")
+    print(f"Translated text in {toLanguage}: {convertedText}")
+
+# #07272021 - End of modification
 
 #====================================================================================================================
 #Funtion to print greet messages
@@ -62,7 +77,7 @@ def userChoice(language):
         choice = input(f"Enter the {language} language: ").lower()
         langCode = validateLanguage(choice)
         if langCode:
-            return langCode
+            return choice, langCode
 
         else:
             print("Error! Not a valid language. Please retry")
@@ -81,19 +96,18 @@ def validateLanguage(choice):
 #====================================================================================================================
 #Function to perform tranlation
 
-def translateText(fromLang, toLang):
+def translateText(inputText, fromLang, toLang):
 
-    inputText = input("Please enter the text you want to translate: ")
+    # inputText = input("Please enter the text you want to translate: ")
     
     try:
         translatorObj = Translator()
-        tranlatedText = translatorObj.translate(inputText, src=fromLang, dest=toLang).text
-        print(tranlatedText)
+        translatedText = translatorObj.translate(inputText, src=fromLang, dest=toLang).text
+        # print(tranlatedText)
     except Exception as e:
         print("Exception: " + str(e))
     else:
-        print(f"Text in {fromLang} is: " + str(inputText))
-        print(f"Text in {toLang} is: " + tranlatedText)
+        return translatedText
 
 #====================================================================================================================
 
