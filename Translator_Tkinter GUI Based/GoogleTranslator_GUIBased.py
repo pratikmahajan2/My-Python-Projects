@@ -29,6 +29,8 @@ Version Log:
 '''
 #import functions required from text and voice based translator projects
 # from GoogleTranslator_TextBased import translateText
+import sys
+sys.path.insert(1,"D:\My Projects\Git Repository\GitHub\My-Python-Projects\Translator_Voice Based")
 from GoogleTranslator_VoiceBased import *
 
 #import other packages
@@ -167,8 +169,8 @@ outputSentenceTextBox.place(x=0, y=0, width=430, height=200)
 translateActionButton = Button(root, text="Translate", cursor="hand2", bd=5, command=startTranslation)
 translateActionButton.place(x=462, y=348)
 
-speaker = PhotoImage(file = r"D:\My Projects\Git Repository\GitHub\My-Python-Projects\Google translator - multiple versions\speaker.png")
-microphone = PhotoImage(file = r"D:\My Projects\Git Repository\GitHub\My-Python-Projects\Google translator - multiple versions\mic.png")
+speaker = PhotoImage(file = r"D:\My Projects\Git Repository\GitHub\My-Python-Projects\Translator_Tkinter GUI Based\speaker.png")
+microphone = PhotoImage(file = r"D:\My Projects\Git Repository\GitHub\My-Python-Projects\Translator_Tkinter GUI Based\mic.png")
 
 listenInput = Button(root, image=microphone, cursor="hand2", bd=5, command=convertAudio2Text)
 listenInput.place(x=50, y=348)
